@@ -36,4 +36,12 @@ app.get("*", (req, res) => {
         res.sendFile(path.join(__dirname, "./public/index.html"));
     });
 
+//api route to create new notes and save them to the db.json file
+app.post("/api/notes", (req,res) => {
+    let newNote = req.body;
+    newNote.id = createId();
+    notes.push(newNote);
+    fs.writeFileSync("./db/db.json", JSON.stringify(notes));
+    res.json(notes);
+})
 
