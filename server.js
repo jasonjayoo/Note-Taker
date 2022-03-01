@@ -25,3 +25,9 @@ app.get("/notes", (req, res) => {
     res.sendFile(path.join(__dirname, "./public/notes.html"));
 });
 
+//API path for the notes page. Will return entrie(s) in the json file when calling this API 
+app.get("/api/notes", (req, res) => {
+    console.log(notes);
+    return res.json(notes);
+    });
+
