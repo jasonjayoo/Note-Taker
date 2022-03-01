@@ -19,3 +19,9 @@ app.use(express.static('./public/'));
 app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "./public/index.html"));
 });
+
+//path to send files to notes page
+app.get("/notes", (req, res) => {
+    res.sendFile(path.join(__dirname, "./public/notes.html"));
+});
+
