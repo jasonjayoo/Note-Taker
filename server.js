@@ -31,3 +31,9 @@ app.get("/api/notes", (req, res) => {
     return res.json(notes);
     });
 
+//default route
+app.get("*", (req, res) => {
+        res.sendFile(path.join(__dirname, "./public/index.html"));
+    });
+
+
