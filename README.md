@@ -101,3 +101,10 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
 
   <br>
   <br>
+  
+## Tests: 
+  <br>
+  npm init -y, npm install, and npm install express. Click on Heroku deployed live app provided above.
+  
+  <br>
+  <br>
