@@ -47,10 +47,10 @@ app.post("/api/notes", (req,res) => {
 
 //api route to delete notes based on the created id
 app.delete("/api/notes/:id", (req, res) => {
-    let noteToDelete = req.params.id;
+    let noteDelete = req.params.id;
 
     for (let i = 0; i < notes.length; i++) {
-        if (noteToDelete === notes[i].id) {
+        if (noteDelete === notes[i].id) {
             notes.splice(i,1);
             fs.writeFileSync("./db/db.json", JSON.stringify(notes));
             return res.json(notes);
