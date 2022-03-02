@@ -45,3 +45,10 @@ app.post("/api/notes", (req,res) => {
     res.json(notes);
 })
 
+
+
+// Starts the server to begin listening
+app.listen(PORT, () => {
+    console.log(`App listening on port ${PORT}`);
+  });
+
