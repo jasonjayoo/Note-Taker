@@ -108,3 +108,12 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
   
   <br>
   <br>
+
+## Credits:
+
+  <br>
+  Great Thanks to the tutorials provided by Mr. Kevin Sun. It was instrumental in helping me understand the express concepts. Great Thanks to my instructors Jackie Tseng and Dave Cox.
+
+  <br>
+  <br>
+
