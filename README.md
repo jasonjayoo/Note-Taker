@@ -61,34 +61,53 @@ https://afternoon-lowlands-55071.herokuapp.com/
 Once downloaded, open the file in VS Code || or || click on link above to use application directly.
 
   <br>
+  <br>
 
 
 [Screenshot1](images/Screenshot1.png) "Note Taker Landing Page with Get Started Button"
 
+<br>
+
 <img src="images/Screenshot1.png">
 
+
+
 [Screenshot2](images/Screenshot2.png) "Note Taker page with three pre-created notes"
+
+<br>
 
 <img src="images/Screenshot2.png">
 
 <br>
 
 [Screenshot3](images/Screenshot3.png) "Note Taker page looking at the first note, the arrow functions note"
+
+<br>
+
 <img src="images/Screenshot3.png">
 
 <br>
 
 [Screenshot4](images/Screenshot4.png) "Screenshot of new note being created (before being saved)"
+
+<br>
+
 <img src="images/Screenshot4.png">
 
 <br>
 
 [Screenshot5](images/Screenshot5.png) "Screenshot of new note created and saved"
+
+<br>
+
 <img src="images/Screenshot5.png">
 
 <br>
 
 [Screenshot5](images/Screenshot6.png) "Screenshot of the first note (arrow functions) having been deleted"
+
+<br>
+
 <img src="images/Screenshot6.png">
 
 <br>
@@ -97,7 +116,7 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
 ## Contributions:
 
   <br>
-  
+
   Reach me at my email provided below to be added as a contributor.
 
   <br>
