@@ -6,14 +6,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-  <br>
 
 ## Description:
 
 Create an application called Note Taker that can be used to write and save notes. Using Express.js as the backend, the application must save and retrieve nbote data from the JSON file. The applications front end has already been created, therefore the back end must be created by yours truly and connected to the exisiting front end, then the application must be deployed via Heroku.
-
-  <br>
-  <br>
 
 ## Table of contents:
 
@@ -27,14 +23,10 @@ Create an application called Note Taker that can be used to write and save notes
 - [Author](#author)
 - [Questions](#questions)
 
-  <br>
-  <br>
   
 ## License:
-  <br>
       -  MIT License - Copyright (c) 2022 Jason Yoo
 
-  <br>
   <br>
 
 ## Heroku:
@@ -70,7 +62,7 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
 
 <img src="images/Screenshot1.png">
 
-
+<br>
 
 [Screenshot2](images/Screenshot2.png) "Note Taker page with three pre-created notes"
 
@@ -120,7 +112,6 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
   Reach me at my email provided below to be added as a contributor.
 
   <br>
-  <br>
   
 ## Tests: 
   <br>
@@ -139,10 +130,8 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
 
 ## Author:
 
-  <br>
   Jason Yoo 
   
-  <br>
   <br>
 
 ## Questions:
