@@ -125,4 +125,8 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
   <br>
   <br>
 
+## Questions:
 
+For any questions regarding this application, you may reach me directly at jasonjayoo@outlook.com.
+
+To view my other applications, please check out my github page [jasonjayoo](https://github.com/jasonjayoo).
