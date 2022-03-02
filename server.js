@@ -45,7 +45,12 @@ app.post("/api/notes", (req,res) => {
     res.json(notes);
 })
 
+//api route to delete notes based on the created id
+app.delete("/api/notes/:id", (req, res) => {
+    let noteToDelete = req.params.id;
 
+
+})
 
 // Starts the server to begin listening
 app.listen(PORT, () => {
