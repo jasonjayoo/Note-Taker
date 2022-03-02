@@ -49,7 +49,14 @@ app.post("/api/notes", (req,res) => {
 app.delete("/api/notes/:id", (req, res) => {
     let noteToDelete = req.params.id;
 
-
+    for (let i = 0; i < notes.length; i++) {
+        if (noteToDelete === notes[i].id) {
+            notes.splice(i,1);
+            fs.writeFileSync("./db/db.json", JSON.stringify(notes));
+            return res.json(notes);
+        }
+    }
+    return res.json(false);
 })
 
 // Starts the server to begin listening
