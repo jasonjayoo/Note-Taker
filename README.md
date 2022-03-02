@@ -97,6 +97,7 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
 ## Contributions:
 
   <br>
+  
   Reach me at my email provided below to be added as a contributor.
 
   <br>
@@ -120,7 +121,7 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
 ## Author:
 
   <br>
-  Jason Yoo
+  Jason Yoo 
   
   <br>
   <br>
