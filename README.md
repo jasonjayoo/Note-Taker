@@ -93,3 +93,11 @@ Once downloaded, open the file in VS Code || or || click on link above to use ap
 
 <br>
 <br>
+
+## Contributions:
+
+  <br>
+  Reach me at my email provided below to be added as a contributor.
+
+  <br>
+  <br>
